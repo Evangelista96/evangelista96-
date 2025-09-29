@@ -68,4 +68,4 @@
 - Enjoys music, sports, and volunteering
 
 ## 🌐 Social Links
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-evangelista-44828b189).
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-evangelista-44828b189)
