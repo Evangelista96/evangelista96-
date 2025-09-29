@@ -11,6 +11,13 @@
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 
+## 📊 Estatísticas GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Evangelista96&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Evangelista96&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+
 ## 🌟 Projetos em destaque
 - [Yellow_bank](https://github.com/Evangelista96/Yellow_bank)
 - [Exercícios SQL INNER JOIN](https://github.com/Evangelista96/Exerc-cios-SQL-INEER-JOIN)
@@ -41,6 +48,13 @@
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Evangelista96&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Evangelista96&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+
 ## 🌟 Featured Projects
 - [Yellow_bank](https://github.com/Evangelista96/Yellow_bank)
 - [Exercícios SQL INNER JOIN](https://github.com/Evangelista96/Exerc-cios-SQL-INEER-JOIN)
@@ -54,4 +68,4 @@
 - Enjoys music, sports, and volunteering
 
 ## 🌐 Social Links
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-evangelista-44828b189)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-evangelista-44828b189).shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-evangelista-44828b189)
